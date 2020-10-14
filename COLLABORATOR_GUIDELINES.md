@@ -25,3 +25,16 @@ You can follow this workflow after you've completed your initial setup. This is 
 * Do not merge anything into the masters or branches which are not yours
 * After you've completed implimenting a feature in your branch and pushed the branch, create a pull request
 * If some changes are proposed in your branch, make the changes and again create a pull request again
+
+For better understanding the workflow read : https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
+
+## People working on the project
+* Sarit Kumar Das (https://github.com/apollonius008)
+* Mangaldeep Ghosh (https://github.com/mangaldeep002)
+* Swapnali Gouda(https://github.com/Swapnali001)
+* Sanjay Kumar Mishra(https://github.com/sanjaykumarmishra)
+
+### Important links
+* Git tutorial : https://missing.csail.mit.edu/2020/version-control/
+* How to write good commit messages : https://chris.beams.io/posts/git-commit/
+* Understand the workflow : https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
